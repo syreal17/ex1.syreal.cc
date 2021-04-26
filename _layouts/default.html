@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+
+  <body>
+    <div class="w3-containaer w3-center">
+      <nav>
+         <u style="color:purple">
+         <a> >>>   </a>
+         <a style="color:#ff00ff" href="/">Home</a>
+         <a> - </a>
+         <a style="color:#ff00ff" href="/grimoiree">Menu</a>
+         <a>   <<< </a>
+         </u>
+      </nav>
+    </div>
+
+    <hr>
+
+    <div class="w3-container w3-center" style="background-color:#4e3469">
+      <p class="w3-xxlarge"> 
+         <u>{{ page.title }}</u>
+      </p>
+    </div>
+
+    <hr>
+
+
+
+    <section>
+      <div class="w3-container w3-auto">
+         {{ content }}
+      </div>
+    </section>
+
+    <footer>
+      <br> 
+      <hr>
+      <div class="w3-panel w3-center">
+         <a>&copy; to LT 'syreal' Jones, et alia;</a>
+      </div>
+    </footer>
+
+  </body>
+</html>
