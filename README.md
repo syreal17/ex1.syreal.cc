@@ -1,2 +1,2 @@
 # ex1.syreal.cc
-Example Website: Savy Pizzeria
+Example Website: Savvy Pizzeria
