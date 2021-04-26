@@ -1,2 +1,2 @@
 # ex1.syreal.cc
-Example GitHub Pages Website.
+Example GitHub Pages Website: Savy Pizzeria
